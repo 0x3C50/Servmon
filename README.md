@@ -2,7 +2,7 @@
 A quick and easy solution for managing and installing minecraft servers
 
 ## Should I use this?
-Depends. Are you focussed on managing one server over a long time or focussed on setting up and running several servers quickly? If the latter is true, then yes.
+Depends. Are you focused on managing one server over a long time or focused on setting up and running several servers quickly? If the latter is true, then yes.
 
 ## But how do I use this?
 1. Install java 17 or later
